@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 7
+modal-id: 4
 date: 2014-07-15
 img: autoportret.png
 alt: image-alt
