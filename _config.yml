@@ -17,7 +17,7 @@ bing_verify:
 # - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
-#contact: static
+contact: disqus
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -25,9 +25,9 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
+  primary: 5716c2 #80B3FF
+  primary-rgb: "87,22,194" #"128,179,255"
+  secondary: 1f1a41 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
@@ -35,7 +35,7 @@ footer:
   copyright: Kacper Wargowiak
   location: Adres
   social: Social media
-  credits: Credits
+  credits: Programy, których używam
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,7 +52,7 @@ address:
   - line: 95-100, Zgierz
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Blender, Unity, Photoshop, Illustrator, After Effects'
 
 # Build settings
 markdown: kramdown

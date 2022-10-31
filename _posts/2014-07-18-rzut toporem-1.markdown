@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-10-25
-img: topor.jpg
+img: topor.png
 alt: image-alt
 project-date: Październik 2022
 client: Studia

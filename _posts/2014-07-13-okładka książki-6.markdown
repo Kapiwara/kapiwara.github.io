@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: okladka.jpg
+img: okladka.png
 alt: image-alt
 project-date: Czerwiec 2020
 client: Studia
