@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2022-01-10
 img: runner.png
 alt: image-alt
 project-date: Styczeń 2022

@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2021-01-10
 img: autoportret.png
 alt: image-alt
 project-date: Styczeń 2021

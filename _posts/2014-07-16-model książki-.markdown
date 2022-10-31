@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2021-10-10
 img: ksiazka.png
 alt: image-alt
 project-date: Październik 2021
