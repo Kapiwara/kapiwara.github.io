@@ -27,13 +27,13 @@ disqus_shortname: myshortname
 color:
   primary: 5716c2 #80B3FF
   primary-rgb: "87,22,194" #"128,179,255"
-  secondary: 1f1a41 #FD6E8A
+  secondary: 9966ff #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
   copyright: Kacper Wargowiak
-  location: Adres
+  location: Kontakt
   social: Social media
   credits: Programy, których używam
 
@@ -50,6 +50,8 @@ social:
 address:
   - line: Czerwona 12A
   - line: 95-100, Zgierz
+  - line: kacperpawel.wargowiak@gmail.com
+  - line: +48 505 548 161
 
 # Credits content
 credits: 'Blender, Unity, Photoshop, Illustrator, After Effects'
