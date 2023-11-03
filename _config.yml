@@ -4,7 +4,7 @@ email: kacperpawel.wargowiak@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Strona portfolio Kacpra Wargowiaka"
 keywords: "gamedev, gry, grafika 3D, grafika 2D, portfolio"
-skills: "Tworzenie gier - Grafika 3D - Grafika 2D"
+skills: "Grafik komputerowy - Graphic designer"
 meta_author: Wargowiak Kacper
 
 # Google webmaster tools
@@ -56,7 +56,7 @@ address:
   - line: +48 505 548 161
 
 # Credits content
-credits: 'Blender, Unity, Photoshop, Illustrator, After Effects'
+credits: 'Photoshop, Illustrator, Blender, After Effects, Dimension Unity.'
 
 # Build settings
 markdown: kramdown

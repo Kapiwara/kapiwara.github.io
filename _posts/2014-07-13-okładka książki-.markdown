@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 6
-date: 2020-06-10
+modal-id: 9
+date: 2022
 img: okladka.png
 alt: image-alt
 project-date: Czerwiec 2020
